@@ -13,4 +13,5 @@ The projects include practically all the important topics for a data scientist:
 - Working with dates and times;
 - Sampling;
 - Statistics;
-- Supervised learning.
+- Regression;
+- Machine Learning.
