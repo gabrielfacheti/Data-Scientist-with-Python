@@ -1,7 +1,7 @@
 > ## <b> Data Scientist with Python </b>
 
 
-This folder contains all the projects I made in the course <b> Data Scientist with Python </b> in DataCamp.
+This folder contains all the projects I made in the course <b> Data Scientist with Python </b> at DataCamp.
 
 The projects include practically all the important topics for a data scientist:
 - Importing data;
